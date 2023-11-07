@@ -6,9 +6,7 @@ on:
       - closed
       - assigned
   pull_request_target:
-    types:
-      - opened
-      - closed
+
 
 jobs:
   run:
