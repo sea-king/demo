@@ -3,7 +3,7 @@ import pandas as pd
 
 
 def test():
-  print('hi')
+  print('hi~~')
 
 
 if __name__ == '__main__':
